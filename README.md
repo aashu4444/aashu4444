@@ -7,7 +7,7 @@
  - HTML
  - CSS, Sass
  - JavaScript, JQuery, React JS
- - Python, Pandas, Django Flask
+ - Python, Pandas, Django, Flask
 
 
 ## 💼 Hire Me
