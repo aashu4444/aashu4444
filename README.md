@@ -10,5 +10,3 @@
  - Python, Pandas, Django, Flask
 
 
-## 💼 Hire Me
-### [_Freelancer.in_](https://www.freelancer.in/hireme/prajapatiaashu44)
